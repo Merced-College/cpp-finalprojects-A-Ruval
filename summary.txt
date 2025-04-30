@@ -1,0 +1,2 @@
+Merced Connect is a C++ program that helps people in Merced find local events and resources, like food banks or community gatherings. It’ll have a simple menu where users can search, sort, and filter options, and even add their own events.
+Right now, I’ve set up the basic structure in main.cpp and created files for handling resources. Next, I’ll build the menu system, add fake events (since real data is hard to find), and make sure everything works smoothly. After that, I’ll polish the code and test it before finishing.
