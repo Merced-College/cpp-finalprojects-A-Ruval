@@ -1,7 +1,7 @@
+// Alexander Ruvalcaba -- 5-13-25 -- CPSC-25 -- Final Project: Merced Connect
 #include "Resource.h"
 #include <iostream>
 #include <iomanip>
-
 using namespace std;
 
 Resource::Resource() : 

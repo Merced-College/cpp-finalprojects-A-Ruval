@@ -1,6 +1,6 @@
+// Alexander Ruvalcaba -- 5-13-25 -- CPSC-25 -- Final Project: Merced Connect
 #ifndef RESOURCE_H
 #define RESOURCE_H
-
 #include <string>
 #include <iostream>
 using namespace std;
